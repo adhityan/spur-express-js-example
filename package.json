@@ -1,0 +1,26 @@
+{
+  "name": "spur-express-example",
+  "version": "0.0.1",
+  "description": "Spur express example",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "moment": "^2.8.4",
+    "superagent": "^0.21.0",
+    "underscore": "^1.7.0",
+    "spur-ioc": "latest",
+    "express": "latest",
+    "method-override": "^2.0.2",
+    "body-parser": "^1.4.3",
+    "cookie-parser": "^1.3.2",
+    "jade": "~1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "chai": "^1.10.0",
+    "sinon": "^1.12.1",
+    "nock": "^0.51.0",
+    "chai-as-promised": "^4.1.1",
+    "sinon-chai": "^2.6.0",
+    "superagent":"0.21.0"
+  }
+}
