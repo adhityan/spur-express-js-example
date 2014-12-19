@@ -6,6 +6,7 @@
 To run the test suite, first install the dependancies, then run `mocha` or `mocha --watch`:
 
 ```bash
+$ npm install -g nodemon
 $ npm install
 $ mocha
 ```
