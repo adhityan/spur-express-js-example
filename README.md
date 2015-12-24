@@ -14,5 +14,5 @@ $ mocha
 ## Start server
 
 ```bash
-$ nodemon src/start.coffee
+$ nodemon src/start.js
 ```
